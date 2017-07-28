@@ -14,7 +14,3 @@ sides = input("How many sides should the die have?")
 sides = int(sides)
 # Initiates
 roll(sides)
-
-
-
-
